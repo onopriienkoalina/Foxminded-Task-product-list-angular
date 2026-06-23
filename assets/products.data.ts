@@ -7,8 +7,8 @@ export const products: Product[] = [
     description: 'Green Apple is a type of apple that is typically tart and crisp. It is often used in cooking and baking, as well as for making cider. Green Apples are also a popular choice for snacking and can be eaten raw or cooked.',
     price: 14.99,
     oldPrice: 49.99,
-    imageUrl: '/apple.jpg',
-    rating: '/rating.svg',
+    imageUrl: 'apple.jpg',
+    rating: 'rating.svg',
   },
   {
     id: 2,
@@ -16,8 +16,8 @@ export const products: Product[] = [
     description: 'Chinese Cabbage is a type of cabbage that is commonly used in Asian cuisine. It has a mild, slightly sweet flavor and a crisp texture. It is often used in stir-fries, soups, and salads.',
     price: 15.99,
     oldPrice: 39.99,
-    imageUrl: '/cabbage.jpg',
-    rating: '/rating.svg',
+    imageUrl: 'cabbage.jpg',
+    rating: 'rating.svg',
   },
   {
     id: 3,
@@ -25,8 +25,8 @@ export const products: Product[] = [
     description: 'Green Capsicum is a type of pepper that is commonly used in cooking. It has a mild, slightly sweet flavor and a crisp texture. It is often used in stir-fries, salads, and as a snack.',
     price: 15.99,
     oldPrice: 39.99,
-    imageUrl: '/capsium.jpg',
-    rating: '/rating.svg',
+    imageUrl: 'capsium.jpg',
+    rating: 'rating.svg',
   },
   {
     id: 4,
@@ -34,8 +34,8 @@ export const products: Product[] = [
     description: 'Ladies Finger is a type of vegetable that is commonly used in cooking. It has a mild, slightly sweet flavor and a crisp texture. It is often used in stir-fries, soups, and salads.',
     price: 15.99,
     oldPrice: 39.99,
-    imageUrl: '/ladies-finger.jpg',
-    rating: '/rating.svg',
+    imageUrl: 'ladies-finger.jpg',
+    rating: 'rating.svg',
   },
     {
     id: 5,
@@ -43,8 +43,8 @@ export const products: Product[] = [
     description: 'Chinese Cabbage is a type of cabbage that is commonly used in Asian cuisine. It has a mild, slightly sweet flavor and a crisp texture. It is often used in stir-fries, soups, and salads.',
     price: 14.99,
     oldPrice: 29.99,
-    imageUrl: '/cabbage.jpg',
-    rating: '/rating.svg',
+    imageUrl: 'cabbage.jpg',
+    rating: 'rating.svg',
   },
   {
     id: 6,
@@ -52,8 +52,8 @@ export const products: Product[] = [
     description: 'Green Capsicum is a type of pepper that is commonly used in cooking. It has a mild, slightly sweet flavor and a crisp texture. It is often used in stir-fries, salads, and as a snack.',
     price: 14.99,
     oldPrice: 29.99,
-    imageUrl: '/capsium.jpg',
-    rating: '/rating.svg',
+    imageUrl: 'capsium.jpg',
+    rating: 'rating.svg',
   },
   {
     id: 7,
@@ -61,7 +61,7 @@ export const products: Product[] = [
     description: 'Ladies Finger is a type of vegetable that is commonly used in cooking. It has a mild, slightly sweet flavor and a crisp texture. It is often used in stir-fries, soups, and salads.',
     price: 14.99,
     oldPrice: 29.99,
-    imageUrl: '/ladies-finger.jpg',
-    rating: '/rating.svg',
+    imageUrl: 'ladies-finger.jpg',
+    rating: 'rating.svg',
   }
 ];
